@@ -1,0 +1,308 @@
+Text,Sentiment,Source,Date
+I absolutely loved this movie!,Positive,User Review,2023-05-15
+The product didn't meet my expectations.,Negative,Online Store Review,2023-06-02
+This restaurant has great ambiance.,Positive,Social Media,2023-07-10
+The customer service was terrible.,Negative,User Review,2023-08-21
+I feel indifferent about this book.,Neutral,Book Review,2023-09-05
+The performance was outstanding!,Positive,User Review,2023-10-12
+I had a horrible experience with this company.,Negative,Online Review,2023-11-30
+I'm not sure how I feel about this.,Neutral,Social Media,2023-12-17
+This hotel exceeded my expectations.,Positive,User Review,2024-01-25
+I wouldn't recommend this product to anyone.,Negative,Online Store Review,2024-02-03
+This book was a delight to read.,Positive,Book Review,2023-04-08
+The quality of the food was disappointing.,Negative,Restaurant Review,2023-03-20
+The weather today is neither good nor bad.,Neutral,Weather Report,2023-02-11
+I'm thrilled with my new phone!,Positive,User Review,2023-01-06
+The service at the restaurant was appalling.,Negative,Restaurant Review,2022-12-29
+I'm feeling okay about this project.,Neutral,Workplace Feedback,2022-11-14
+I'm so excited about my upcoming vacation!,Positive,Social Media,2022-10-09
+I had a terrible time at the party last night.,Negative,Personal Experience,2022-09-28
+This movie was a waste of time.,Negative,Movie Review,2022-08-17
+The customer support was excellent!,Positive,User Review,2022-07-05
+The new feature is neither useful nor intuitive.,Neutral,Product Review,2022-06-19
+I absolutely adore this song!,Positive,Music Review,2022-05-22
+I was really disappointed with the service.,Negative,User Review,2022-04-03
+This game is neither fun nor engaging.,Neutral,Gaming Review,2022-03-14
+The movie left me feeling underwhelmed.,Negative,Movie Review,2022-02-25
+I'm feeling pretty neutral about this whole situation.,Neutral,Social Media,2022-01-12
+The concert was absolutely amazing!,Positive,Concert Review,2021-12-08
+I've had better experiences elsewhere.,Negative,User Review,2021-11-19
+This product exceeded my expectations!,Positive,Online Store Review,2021-10-04
+The traffic today was neither heavy nor light.,Neutral,Traffic Report,2021-09-21
+I can't wait to try this new restaurant!,Positive,Social Media,2021-08-07
+The hotel room was dirty and unkempt.,Negative,Hotel Review,2021-07-18
+I don't really have strong feelings about it.,Neutral,Personal Opinion,2021-06-03
+The customer service was exceptional!,Positive,User Review,2021-05-16
+The food at the restaurant was subpar.,Negative,Restaurant Review,2021-04-29
+I'm neither excited nor disappointed about it.,Neutral,Social Media,2021-03-11
+The book was a delightful read.,Positive,Book Review,2021-02-22
+I found the experience to be quite disappointing.,Negative,User Review,2021-01-07
+I'm not sure how I feel about this.,Neutral,Product Review,2020-12-24
+I absolutely loved the museum exhibit!,Positive,Museum Review,2020-11-09
+The product arrived damaged and unusable.,Negative,Online Store Review,2020-10-26
+I have mixed feelings about this decision.,Neutral,Personal Opinion,2020-09-13
+The service at the restaurant was top-notch.,Positive,Restaurant Review,2020-08-30
+The movie was an absolute disaster!,Negative,Movie Review,2020-07-15
+I'm feeling pretty good about the outcome.,Positive,Social Media,2020-06-26
+The new update completely ruined the app.,Negative,App Review,2020-05-11
+I'm feeling indifferent about the whole situation.,Neutral,Personal Opinion,2020-04-24
+The customer support was prompt and helpful.,Positive,User Review,2020-03-09
+The food was overcooked and tasteless.,Negative,Restaurant Review,2020-02-25
+I have no strong feelings about this decision.,Neutral,Personal Opinion,2020-01-12
+I'm absolutely thrilled about the news!,Positive,Social Media,2019-12-28
+The product didn't live up to its hype.,Negative,Product Review,2019-11-13
+I'm undecided about what to do next.,Neutral,Personal Opinion,2019-10-30
+The performance was outstanding!,Positive,Theater Review,2019-09-15
+The movie was a complete waste of time.,Negative,Movie Review,2019-08-01
+I'm feeling pretty positive about the outcome.,Positive,Social Media,2019-07-14
+The customer service was terrible.,Negative,User Review,2019-06-29
+I'm not sure how I feel about this.,Neutral,Product Review,2019-05-14
+I absolutely loved the concert!,Positive,Concert Review,2019-04-27
+The product didn't meet my expectations.,Negative,Online Store Review,2019-03-12
+I have mixed feelings about this decision.,Neutral,Personal Opinion,2019-02-25
+The service at the restaurant was fantastic!,Positive,Restaurant Review,2019-01-10
+The movie was disappointing.,Negative,Movie Review,2018-12-23
+I'm feeling quite content with everything.,Positive,Social Media,2018-11-08
+The software update caused a lot of issues.,Negative,Software Review,2018-10-21
+I don't really care about the outcome.,Neutral,Personal Opinion,2018-09-06
+The customer support was exceptional!,Positive,User Review,2018-08-20
+The food at the restaurant was delicious.,Positive,Restaurant Review,2018-07-05
+I found the whole experience to be underwhelming.,Negative,User Review,2018-06-18
+I'm neither thrilled nor disappointed.,Neutral,Social Media,2018-05-03
+The book was a page-turner!,Positive,Book Review,2018-04-16
+The product didn't work as expected.,Negative,Online Store Review,2018-03-01
+I'm feeling indifferent about the situation.,Neutral,Personal Opinion,2018-02-12
+The concert was absolutely amazing!,Positive,Concert Review,2018-01-28
+The service at the restaurant was atrocious.,Negative,Restaurant Review,2017-12-13
+I'm feeling pretty good about everything.,Positive,Social Media,2017-11-26
+The new feature is neither helpful nor intuitive.,Neutral,Product Review,2017-10-11
+I absolutely hated the movie!,Negative,Movie Review,2017-09-24
+I'm feeling indifferent about the whole thing.,Neutral,Personal Opinion,2017-08-09
+The customer service was outstanding!,Positive,User Review,2017-07-23
+The food at the restaurant was terrible.,Negative,Restaurant Review,2017-06-08
+I'm not sure how I feel about this.,Neutral,Product Review,2017-05-21
+I absolutely loved the play!,Positive,Theater Review,2017-04-05
+The product didn't meet my expectations.,Negative,Online Store Review,2017-03-20
+I'm undecided about what to do.,Neutral,Personal Opinion,2017-02-03
+The service at the restaurant was phenomenal!,Positive,Restaurant Review,2017-01-18
+The movie was a letdown.,Negative,Movie Review,2016-12-03
+I'm feeling quite optimistic about it.,Positive,Social Media,2016-11-16
+The new update caused a lot of problems.,Negative,Software Review,2016-10-01
+I don't really have any strong feelings.,Neutral,Personal Opinion,2016-09-14
+The customer support was exceptional!,Positive,User Review,2016-08-29
+The food at the restaurant was superb.,Positive,Restaurant Review,2016-07-14
+I found the whole experience to be disappointing.,Negative,User Review,2016-06-27
+I'm neither thrilled nor disappointed.,Neutral,Social Media,2016-05-12
+The book was captivating!,Positive,Book Review,2016-04-25
+The product didn't live up to its claims.,Negative,Online Store Review,2016-03-10
+I'm feeling indifferent about the situation.,Neutral,Personal Opinion,2016-02-23
+The concert was absolutely amazing!,Positive,Concert Review,2016-01-08
+The service at the restaurant was atrocious.,Negative,Restaurant Review,2015-12-21
+I'm feeling pretty good about everything.,Positive,Social Media,2015-11-06
+The new feature is neither helpful nor intuitive.,Neutral,Product Review,2015-10-19
+I absolutely hated the movie!,Negative,Movie Review,2015-09-04
+I'm feeling indifferent about the whole thing.,Neutral,Personal Opinion,2015-08-17
+The customer service was outstanding!,Positive,User Review,2015-07-02
+The food at the restaurant was terrible.,Negative,Restaurant Review,2015-06-15
+I'm not sure how I feel about this.,Neutral,Product Review,2015-05-01
+I absolutely loved the play!,Positive,Theater Review,2015-04-14
+The product didn't meet my expectations.,Negative,Online Store Review,2015-03-29
+I'm undecided about what to do.,Neutral,Personal Opinion,2015-02-11
+The service at the restaurant was phenomenal!,Positive,Restaurant Review,2015-01-26
+The movie was a letdown.,Negative,Movie Review,2014-12-11
+I'm feeling quite optimistic about it.,Positive,Social Media,2014-11-24
+The new update caused a lot of problems.,Negative,Software Review,2014-10-09
+I don't really have any strong feelings.,Neutral,Personal Opinion,2014-09-22
+The customer support was exceptional!,Positive,User Review,2014-08-07
+The food at the restaurant was superb.,Positive,Restaurant Review,2014-07-20
+I found the whole experience to be disappointing.,Negative,User Review,2014-06-05
+I'm neither thrilled nor disappointed.,Neutral,Social Media,2014-05-18
+The book was captivating!,Positive,Book Review,2014-04-03
+The product didn't live up to its claims.,Negative,Online Store Review,2014-03-16
+I'm feeling indifferent about the situation.,Neutral,Personal Opinion,2014-02-28
+The concert was absolutely amazing!,Positive,Concert Review,2014-01-13
+The service at the restaurant was atrocious.,Negative,Restaurant Review,2013-12-26
+I'm feeling pretty good about everything.,Positive,Social Media,2013-11-11
+The new feature is neither helpful nor intuitive.,Neutral,Product Review,2013-10-24
+I absolutely hated the movie!,Negative,Movie Review,2013-09-09
+I'm feeling indifferent about the whole thing.,Neutral,Personal Opinion,2013-08-22
+The customer service was outstanding!,Positive,User Review,2013-07-07
+The food at the restaurant was terrible.,Negative,Restaurant Review,2013-06-20
+I'm not sure how I feel about this.,Neutral,Product Review,2013-05-05
+I absolutely loved the play!,Positive,Theater Review,2013-04-18
+The product didn't meet my expectations.,Negative,Online Store Review,2013-03-03
+I'm undecided about what to do.,Neutral,Personal Opinion,2013-02-14
+The service at the restaurant was phenomenal!,Positive,Restaurant Review,2013-01-29
+The movie was a letdown.,Negative,Movie Review,2012-12-14
+I'm feeling quite optimistic about it.,Positive,Social Media,2012-11-27
+The new update caused a lot of problems.,Negative,Software Review,2012-10-12
+I don't really have any strong feelings.,Neutral,Personal Opinion,2012-09-25
+The customer support was exceptional!,Positive,User Review,2012-08-10
+The food at the restaurant was superb.,Positive,Restaurant Review,2012-07-23
+I found the whole experience to be disappointing.,Negative,User Review,2012-06-08
+I'm neither thrilled nor disappointed.,Neutral,Social Media,2012-05-21
+The book was captivating!,Positive,Book Review,2012-04-05
+The product didn't live up to its claims.,Negative,Online Store Review,2012-03-19
+I'm feeling indifferent about the situation.,Neutral,Personal Opinion,2012-02-29
+The concert was absolutely amazing!,Positive,Concert Review,2012-01-14
+The service at the restaurant was atrocious.,Negative,Restaurant Review,2011-12-27
+I'm feeling pretty good about everything.,Positive,Social Media,2011-11-12
+The new feature is neither helpful nor intuitive.,Neutral,Product Review,2011-10-25
+I absolutely hated the movie!,Negative,Movie Review,2011-09-10
+I'm feeling indifferent about the whole thing.,Neutral,Personal Opinion,2011-08-23
+The customer service was outstanding!,Positive,User Review,2011-07-08
+The food at the restaurant was terrible.,Negative,Restaurant Review,2011-06-21
+I'm not sure how I feel about this.,Neutral,Product Review,2011-05-06
+I absolutely loved the play!,Positive,Theater Review,2011-04-19
+The product didn't meet my expectations.,Negative,Online Store Review,2011-03-04
+I'm undecided about what to do.,Neutral,Personal Opinion,2011-02-15
+The service at the restaurant was phenomenal!,Positive,Restaurant Review,2011-01-30
+The movie was a letdown.,Negative,Movie Review,2010-12-15
+I'm feeling quite optimistic about it.,Positive,Social Media,2010-11-28
+The new update caused a lot of problems.,Negative,Software Review,2010-10-13
+I don't really have any strong feelings.,Neutral,Personal Opinion,2010-09-26
+The customer support was exceptional!,Positive,User Review,2010-08-11
+The food at the restaurant was superb.,Positive,Restaurant Review,2010-07-24
+I found the whole experience to be disappointing.,Negative,User Review,2010-06-09
+I'm neither thrilled nor disappointed.,Neutral,Social Media,2010-05-22
+The book was captivating!,Positive,Book Review,2010-04-06
+The product didn't live up to its claims.,Negative,Online Store Review,2010-03-20
+I'm feeling indifferent about the situation.,Neutral,Personal Opinion,2010-02-28
+The concert was absolutely amazing!,Positive,Concert Review,2010-01-13
+The service at the restaurant was atrocious.,Negative,Restaurant Review,2009-12-26
+I'm feeling pretty good about everything.,Positive,Social Media,2009-11-11
+The new feature is neither helpful nor intuitive.,Neutral,Product Review,2009-10-24
+I absolutely hated the movie!,Negative,Movie Review,2009-09-09
+I'm feeling indifferent about the whole thing.,Neutral,Personal Opinion,2009-08-22
+The customer service was outstanding!,Positive,User Review,2009-07-07
+The food at the restaurant was terrible.,Negative,Restaurant Review,2009-06-20
+I'm not sure how I feel about this.,Neutral,Product Review,2009-05-05
+I absolutely loved the play!,Positive,Theater Review,2009-04-18
+The product didn't meet my expectations.,Negative,Online Store Review,2009-03-03
+I'm undecided about what to do.,Neutral,Personal Opinion,2009-02-14
+The service at the restaurant was phenomenal!,Positive,Restaurant Review,2009-01-29
+The movie was a letdown.,Negative,Movie Review,2008-12-14
+I'm feeling quite optimistic about it.,Positive,Social Media,2008-11-27
+The new update caused a lot of problems.,Negative,Software Review,2008-10-12
+I don't really have any strong feelings.,Neutral,Personal Opinion,2008-09-25
+The customer support was exceptional!,Positive,User Review,2008-08-10
+The food at the restaurant was superb.,Positive,Restaurant Review,2008-07-23
+I found the whole experience to be disappointing.,Negative,User Review,2008-06-08
+I'm neither thrilled nor disappointed.,Neutral,Social Media,2008-05-21
+The book was captivating!,Positive,Book Review,2008-04-05
+The product didn't live up to its claims.,Negative,Online Store Review,2008-03-19
+I'm feeling indifferent about the situation.,Neutral,Personal Opinion,2008-02-29
+The concert was absolutely amazing!,Positive,Concert Review,2008-01-13
+The service at the restaurant was atrocious.,Negative,Restaurant Review,2007-12-26
+I'm feeling pretty good about everything.,Positive,Social Media,2007-11-11
+The new feature is neither helpful nor intuitive.,Neutral,Product Review,2007-10-24
+I absolutely hated the movie!,Negative,Movie Review,2007-09-09
+I'm feeling indifferent about the whole thing.,Neutral,Personal Opinion,2007-08-22
+The customer service was outstanding!,Positive,User Review,2007-07-07
+The food at the restaurant was terrible.,Negative,Restaurant Review,2007-06-20
+I'm not sure how I feel about this.,Neutral,Product Review,2007-05-05
+I absolutely loved the play!,Positive,Theater Review,2007-04-18
+The product didn't meet my expectations.,Negative,Online Store Review,2007-03-03
+I'm undecided about what to do.,Neutral,Personal Opinion,2007-02-14
+The service at the restaurant was phenomenal!,Positive,Restaurant Review,2007-01-29
+The movie was a letdown.,Negative,Movie Review,2006-12-14
+I'm feeling quite optimistic about it.,Positive,Social Media,2006-11-27
+The new update caused a lot of problems.,Negative,Software Review,2006-10-12
+I don't really have any strong feelings.,Neutral,Personal Opinion,2006-09-25
+The customer support was exceptional!,Positive,User Review,2006-08-10
+The food at the restaurant was superb.,Positive,Restaurant Review,2006-07-23
+I found the whole experience to be disappointing.,Negative,User Review,2006-06-08
+I'm neither thrilled nor disappointed.,Neutral,Social Media,2006-05-21
+The book was captivating!,Positive,Book Review,2006-04-05
+The product didn't live up to its claims.,Negative,Online Store Review,2006-03-19
+I'm feeling indifferent about the situation.,Neutral,Personal Opinion,2006-02-28
+The concert was absolutely amazing!,Positive,Concert Review,2006-01-13
+The service at the restaurant was atrocious.,Negative,Restaurant Review,2005-12-26
+I'm feeling pretty good about everything.,Positive,Social Media,2005-11-11
+The new feature is neither helpful nor intuitive.,Neutral,Product Review,2005-10-24
+I absolutely hated the movie!,Negative,Movie Review,2005-09-09
+I'm feeling indifferent about the whole thing.,Neutral,Personal Opinion,2005-08-22
+The customer service was outstanding!,Positive,User Review,2005-07-07
+The food at the restaurant was terrible.,Negative,Restaurant Review,2005-06-20
+I'm not sure how I feel about this.,Neutral,Product Review,2005-05-05
+I absolutely loved the play!,Positive,Theater Review,2005-04-18
+The product didn't meet my expectations.,Negative,Online Store Review,2005-03-03
+I'm undecided about what to do.,Neutral,Personal Opinion,2005-02-14
+The service at the restaurant was phenomenal!,Positive,Restaurant Review,2005-01-29
+The movie was a letdown.,Negative,Movie Review,2004-12-14
+I'm feeling quite optimistic about it.,Positive,Social Media,2004-11-27
+The new update caused a lot of problems.,Negative,Software Review,2004-10-12
+I don't really have any strong feelings.,Neutral,Personal Opinion,2004-09-25
+The customer support was exceptional!,Positive,User Review,2004-08-10
+The food at the restaurant was superb.,Positive,Restaurant Review,2004-07-23
+I found the whole experience to be disappointing.,Negative,User Review,2004-06-08
+I'm neither thrilled nor disappointed.,Neutral,Social Media,2004-05-21
+The book was captivating!,Positive,Book Review,2004-04-05
+The product didn't live up to its claims.,Negative,Online Store Review,2004-03-19
+I'm feeling indifferent about the situation.,Neutral,Personal Opinion,2004-02-28
+The concert was absolutely amazing!,Positive,Concert Review,2004-01-13
+The service at the restaurant was atrocious.,Negative,Restaurant Review,2003-12-26
+I'm feeling pretty good about everything.,Positive,Social Media,2003-11-11
+The new feature is neither helpful nor intuitive.,Neutral,Product Review,2003-10-24
+I absolutely hated the movie!,Negative,Movie Review,2003-09-09
+I'm feeling indifferent about the whole thing.,Neutral,Personal Opinion,2003-08-22
+The customer service was outstanding!,Positive,User Review,2003-07-07
+The food at the restaurant was terrible.,Negative,Restaurant Review,2003-06-20
+I'm not sure how I feel about this.,Neutral,Product Review,2003-05-05
+I absolutely loved the play!,Positive,Theater Review,2003-04-18
+The product didn't meet my expectations.,Negative,Online Store Review,2003-03-03
+I'm undecided about what to do.,Neutral,Personal Opinion,2003-02-14
+The service at the restaurant was phenomenal!,Positive,Restaurant Review,2003-01-29
+The movie was a letdown.,Negative,Movie Review,2002-12-14
+I'm feeling quite optimistic about it.,Positive,Social Media,2002-11-27
+The new update caused a lot of problems.,Negative,Software Review,2002-10-12
+I don't really have any strong feelings.,Neutral,Personal Opinion,2002-09-25
+The customer support was exceptional!,Positive,User Review,2002-08-10
+The food at the restaurant was superb.,Positive,Restaurant Review,2002-07-23
+I found the whole experience to be disappointing.,Negative,User Review,2002-06-08
+I'm neither thrilled nor disappointed.,Neutral,Social Media,2002-05-21
+The book was captivating!,Positive,Book Review,2002-04-05
+The product didn't live up to its claims.,Negative,Online Store Review,2002-03-19
+I'm feeling indifferent about the situation.,Neutral,Personal Opinion,2002-02-28
+The concert was absolutely amazing!,Positive,Concert Review,2002-01-13
+The service at the restaurant was atrocious.,Negative,Restaurant Review,2001-12-26
+I'm feeling pretty good about everything.,Positive,Social Media,2001-11-11
+The new feature is neither helpful nor intuitive.,Neutral,Product Review,2001-10-24
+I absolutely hated the movie!,Negative,Movie Review,2001-09-09
+I'm feeling indifferent about the whole thing.,Neutral,Personal Opinion,2001-08-22
+The customer service was outstanding!,Positive,User Review,2001-07-07
+The food at the restaurant was terrible.,Negative,Restaurant Review,2001-06-20
+I'm not sure how I feel about this.,Neutral,Product Review,2001-05-05
+I absolutely loved the play!,Positive,Theater Review,2001-04-18
+The product didn't meet my expectations.,Negative,Online Store Review,2001-03-03
+I'm undecided about what to do.,Neutral,Personal Opinion,2001-02-14
+The service at the restaurant was phenomenal!,Positive,Restaurant Review,2001-01-29
+The movie was a letdown.,Negative,Movie Review,2000-12-14
+I'm feeling quite optimistic about it.,Positive,Social Media,2000-11-27
+The new update caused a lot of problems.,Negative,Software Review,2000-10-12
+I don't really have any strong feelings.,Neutral,Personal Opinion,2000-09-25
+The customer support was exceptional!,Positive,User Review,2000-08-10
+The food at the restaurant was superb.,Positive,Restaurant Review,2000-07-23
+I found the whole experience to be disappointing.,Negative,User Review,2000-06-08
+I'm neither thrilled nor disappointed.,Neutral,Social Media,2000-05-21
+The book was captivating!,Positive,Book Review,2000-04-05
+The product didn't live up to its claims.,Negative,Online Store Review,2000-03-19
+I'm feeling indifferent about the situation.,Neutral,Personal Opinion,2000-02-28
+The concert was absolutely amazing!,Positive,Concert Review,2000-01-13
+The service at the restaurant was atrocious.,Negative,Restaurant Review,1999-12-26
+I'm feeling pretty good about everything.,Positive,Social Media,1999-11-11
+The new feature is neither helpful nor intuitive.,Neutral,Product Review,1999-10-24
+I absolutely hated the movie!,Negative,Movie Review,1999-09-09
+I'm feeling indifferent about the whole thing.,Neutral,Personal Opinion,1999-08-22
+The customer service was outstanding!,Positive,User Review,1999-07-07
+The food at the restaurant was terrible.,Negative,Restaurant Review,1999-06-20
+I'm not sure how I feel about this.,Neutral,Product Review,1999-05-05
+I absolutely loved the play!,Positive,Theater Review,1999-04-18
+The product didn't meet my expectations.,Negative,Online Store Review,1999-03-03
+I'm undecided about what to do.,Neutral,Personal Opinion,1999-02-14
+The service at the restaurant was phenomenal!,Positive,Restaurant Review,1999-01-29
+The movie was a letdown.,Negative,Movie Review,1998-12-14
+I'm feeling quite optimistic about it.,Positive,Social Media,1998-11-27
+The new update caused a lot of problems.,Negative,Software Review,1998-10-12
+"I don
+",,,
